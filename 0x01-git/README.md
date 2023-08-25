@@ -1,2 +1,1 @@
-This is my second readme
-This is my second readme
+This is the README for the alx-pre_course repository
